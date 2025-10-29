@@ -1,2 +1,3 @@
 print("hello world")
-print("Chinmayi")
+for i in range(5):
+    print(i)
